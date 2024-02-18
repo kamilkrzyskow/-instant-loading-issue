@@ -1,0 +1,13 @@
+site_name: My Docs
+theme:
+  name: material
+  features:
+    - navigation.instant
+
+nav:
+  - Home: index.md
+  - Page1: page1/index.md
+  - Page2: page2/index.md
+  - Page3: page3/index.md
+
+
