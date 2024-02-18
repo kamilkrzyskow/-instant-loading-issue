@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"FastAPI","text":""},{"location":"page1/","title":"Page 1","text":""},{"location":"page2/","title":"Page 2","text":""},{"location":"page3/","title":"Page 3","text":""}]}
